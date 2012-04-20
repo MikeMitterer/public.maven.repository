@@ -33,4 +33,13 @@
     	<scope>test</scope>
     </dependency>
   </dependencies>   
+  
+	<distributionManagement>
+		<repository>
+			<id>public.maven.repository</id>
+			<name>public.maven.repository on GitHub</name>
+			<url>https://github.com/MikeMitterer/public.maven.repository</url>
+			<layout>default</layout>
+		</repository>  
+	</distributionManagement>		  
 </project>
