@@ -1,4 +1,4 @@
-A Maven repository for public projects maintained or supported by [Mike Mitterer](https://github.com/MikeMitterer/public.maven.repository)
+A Maven repository for public projects maintained or supported by [Mike Mitterer](http://www.mikemitterer.at)
 
 Repository params:
 
@@ -9,6 +9,11 @@ Repository params:
         <layout>default</layout>
     </repository>
 
+If you use it in Gradle:
+
+	maven {
+		url uri("https://raw.github.com/MikeMitterer/public.maven.repository/master")
+	}
 
 Avaliable artifacts:
 
