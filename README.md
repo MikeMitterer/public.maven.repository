@@ -17,6 +17,9 @@ If you use it in Gradle:
 
 Avaliable artifacts:
 
+*	**[TexenPlugin](https://github.com/MikeMitterer/gradle-texen-plugin)** 
+	Helps creating all sort of text output
+	  
 *	**[GitKit](https://github.com/MikeMitterer/public.maven.repository)**   
 	Maven-Repo for GitKit (1.1) The java client library for Google Identity Toolkit (GITKit).
 	[GitKit](http://code.google.com/p/gitkit-java-client-library/)
