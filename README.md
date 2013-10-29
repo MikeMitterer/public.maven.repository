@@ -26,7 +26,8 @@ Avaliable artifacts:
 	        <version>0.3.1</version>
 	    </dependency>
 	
-	Gradle
+	Gradle:
+	
 		compile group: 'at.mikemitterer',       name: 'beanvalidator',           version: '0.3'
 		    	
 *	**[TexenPlugin](https://github.com/MikeMitterer/gradle-texen-plugin)** 
