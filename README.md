@@ -17,7 +17,7 @@ If you use it in Gradle:
 
 Avaliable artifacts:
 
-*	**[BeanValidator](https://github.com/MikeMitterer/https://github.com/MikeMitterer/BeanValidator)** 
+*	**[BeanValidator](https://github.com/MikeMitterer/BeanValidator)** 
 	Lightweight validator library
 	
 	    <dependency>
