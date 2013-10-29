@@ -17,15 +17,18 @@ If you use it in Gradle:
 
 Avaliable artifacts:
 
-*	**[BeanValidate](https://github.com/MikeMitterer/gradle-texen-plugin)** 
-	Helps creating all sort of text output
+*	**[BeanValidator](https://github.com/MikeMitterer/https://github.com/MikeMitterer/BeanValidator)** 
+	Lightweight validator library
 	
 	    <dependency>
-	        <groupId>com.google.gitkit</groupId>
-	        <artifactId>gitkit</artifactId>
-	        <version>1.1</version>
+	        <groupId>at.mikemitterer</groupId>
+	        <artifactId>beanvalidator</artifactId>
+	        <version>0.3.1</version>
 	    </dependency>
-	    	
+	
+	Gradle
+		compile group: 'at.mikemitterer',       name: 'beanvalidator',           version: '0.3'
+		    	
 *	**[TexenPlugin](https://github.com/MikeMitterer/gradle-texen-plugin)** 
 	Helps creating all sort of text output
 	  
