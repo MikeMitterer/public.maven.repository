@@ -3,11 +3,12 @@
   <groupId>com.google.inject</groupId>
   <artifactId>guice</artifactId>
   <versioning>
-    <release>3.0-no_aop</release>
+    <release>4.0-beta-no_aop</release>
     <versions>
       <version>4.0-no_aop</version>
       <version>3.0-no_aop</version>
+      <version>4.0-beta-no_aop</version>
     </versions>
-    <lastUpdated>20131029092842</lastUpdated>
+    <lastUpdated>20131029094550</lastUpdated>
   </versioning>
 </metadata>

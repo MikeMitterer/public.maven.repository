@@ -48,19 +48,19 @@ Avaliable artifacts:
 	
 	Gradle:
 	
+		compile group: 'com.google.inject',       name: 'guice',           version: '3.0-no_aop'
+	
 	GUICE 4.0 BETA
 	
-		compile group: 'com.google.inject',       name: 'guice',           version: '3.0-no_aop'
-		
 	    <dependency>
 	        <groupId>com.google.inject</groupId>
 	        <artifactId>guice</artifactId>
-	        <version>3.0-no_aop</version>
+	        <version>4.0-beta-no_aop</version>
 	    </dependency>
 	
 	Gradle:
 	
-		compile group: 'com.google.inject',       name: 'guice',           version: '3.0-no_aop'		
+		compile group: 'com.google.inject',       name: 'guice',           version: '4.0-beta-no_aop'		
 		  
 *	**[GitKit](https://github.com/MikeMitterer/public.maven.repository)**   
 	Maven-Repo for GitKit (1.1) The java client library for Google Identity Toolkit (GITKit).

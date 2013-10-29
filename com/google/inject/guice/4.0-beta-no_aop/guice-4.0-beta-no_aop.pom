@@ -4,6 +4,6 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.google.inject</groupId>
   <artifactId>guice</artifactId>
-  <version>4.0-no_aop</version>
+  <version>4.0-beta-no_aop</version>
   <description>POM was created from install:install-file</description>
 </project>
