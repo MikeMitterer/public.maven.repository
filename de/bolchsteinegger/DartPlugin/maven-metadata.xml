@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>de.bolchsteinegger</groupId>
+  <artifactId>DartPlugin</artifactId>
+  <version>0.1.1</version>
+  <versioning>
+    <versions>
+      <version>0.1.1</version>
+    </versions>
+    <lastUpdated>20130622163806</lastUpdated>
+  </versioning>
+</metadata>

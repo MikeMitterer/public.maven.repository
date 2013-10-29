@@ -17,6 +17,15 @@ If you use it in Gradle:
 
 Avaliable artifacts:
 
+*	**[BeanValidate](https://github.com/MikeMitterer/gradle-texen-plugin)** 
+	Helps creating all sort of text output
+	
+	    <dependency>
+	        <groupId>com.google.gitkit</groupId>
+	        <artifactId>gitkit</artifactId>
+	        <version>1.1</version>
+	    </dependency>
+	    	
 *	**[TexenPlugin](https://github.com/MikeMitterer/gradle-texen-plugin)** 
 	Helps creating all sort of text output
 	  
