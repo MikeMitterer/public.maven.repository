@@ -23,12 +23,12 @@ Avaliable artifacts:
 	    <dependency>
 	        <groupId>at.mikemitterer</groupId>
 	        <artifactId>beanvalidator</artifactId>
-	        <version>0.4</version>
+	        <version>0.4.1</version>
 	    </dependency>
 	
 	Gradle:
 	
-		compile group: 'at.mikemitterer',       name: 'beanvalidator',           version: '0.4'
+		compile group: 'at.mikemitterer',       name: 'beanvalidator',           version: '0.4.1'
 		    	
 *	**[TexenPlugin](https://github.com/MikeMitterer/gradle-texen-plugin)** 
 	Helps creating all sort of text output
