@@ -32,7 +32,36 @@ Avaliable artifacts:
 		    	
 *	**[TexenPlugin](https://github.com/MikeMitterer/gradle-texen-plugin)** 
 	Helps creating all sort of text output
-	  
+	
+* 	**Google GUICE NO_AOP**
+
+	I added a NO_AOP-Version of Guice to my public repo because I hope it helps someone else
+	to solve the dependency problems with Guice on Android.
+	
+	GUICE 3.0
+	
+	    <dependency>
+	        <groupId>com.google.inject</groupId>
+	        <artifactId>guice</artifactId>
+	        <version>3.0-no_aop</version>
+	    </dependency>
+	
+	Gradle:
+	
+	GUICE 4.0 BETA
+	
+		compile group: 'com.google.inject',       name: 'guice',           version: '3.0-no_aop'
+		
+	    <dependency>
+	        <groupId>com.google.inject</groupId>
+	        <artifactId>guice</artifactId>
+	        <version>3.0-no_aop</version>
+	    </dependency>
+	
+	Gradle:
+	
+		compile group: 'com.google.inject',       name: 'guice',           version: '3.0-no_aop'		
+		  
 *	**[GitKit](https://github.com/MikeMitterer/public.maven.repository)**   
 	Maven-Repo for GitKit (1.1) The java client library for Google Identity Toolkit (GITKit).
 	[GitKit](http://code.google.com/p/gitkit-java-client-library/)
